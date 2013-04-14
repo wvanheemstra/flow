@@ -3,6 +3,9 @@ flow
 
 The flow layer.
 
+*See [flow readme] [1] in the docs flow docs subfolder.*
+[1]: ../../../docs/blob/master/flow/README.md "flow readme"
+
 ##Licence
 (The MIT License)
 
